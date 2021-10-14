@@ -3,4 +3,4 @@
 Copy this fille to folder witch file you want to block
 
 
-Run fille to block all exe in folder and folde below
+Run fille to block all exe in folder and folder below
